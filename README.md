@@ -1,2 +1,11 @@
-# love-leak
-LOVE//LEAK — interactive mobile detective game about secrets, relationships, hidden messages and digital evidence. Investigate 5 cases, explore a virtual phone, uncover deleted chats, media, calls and files, solve 75 tasks and make the final accusation.
+# LOVE//LEAK — REAL
+
+Полностью автономная мобильная web-game.
+
+## Публикация бесплатно через GitHub Pages
+1. Создай публичный репозиторий на GitHub, например `love-leak`.
+2. Загрузи `index.html` и папку `assets`.
+3. Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
+4. Открой выданную ссылку вида `https://ТВОЙНИК.github.io/love-leak/`.
+
+Игра не требует базы данных и сервера: прогресс хранится в localStorage браузера.
